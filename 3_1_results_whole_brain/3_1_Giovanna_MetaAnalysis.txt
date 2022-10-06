@@ -1,0 +1,314 @@
+TABLE ID	ID	STUDY	SAMPLE 	REGION	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t	Notes
+table1	142	zhang2019	Brain	Whole brain	GABA	11	1,41	0,3	11	1,23	0,27	
+table1	107	huang2016	Brain	Whole brain	GABA	15	0,11	0,009	17	0,107	0,023	
+table1	107	huang2016	Brain	Whole brain	GABA	15	0,102	0,024	17	0,107	0,029	
+table1	15	liu2014	Brain	Whole brain	GABA	12	242,4	50,92	12	266,9	60,96	
+table1	15	liu2014	Brain	Whole brain	GABA	12	367,15	64,43	12	330,4	62,7	
+table1	225	bai2014	Brain	Whole brain	GABA	15	0,104	0,022	15	0,098	0,008	
+table1	225	bai2014	Brain	Whole brain	GABA	15	0,099	0,012	15	0,086	0,016	
+table1	18	gueli2013	Brain	Whole brain	GABA	13	0,9	0,28	13	0,6	0,16	
+table1	17	aisa2010	Brain	Whole brain	GABA	16	704,39	253,64	19	555,33	139,35	
+table1	17	aisa2010	Brain	Whole brain	GABA	16	579,94	126,88	19	457,44	138,17	
+table1	130	garcia-alloza2006	Brain	Whole brain	GABA	20	695,68	273,56	21	574,36	119,6	
+table1	130	garcia-alloza2006	Brain	Whole brain	GABA	20	570,39	128,7	21	452,05	133,3	
+table1	83	seidl2001	Brain	Whole brain	GABA	7	1,4	0,6	8	0,8	0,2	
+table1	83	seidl2001	Brain	Whole brain	GABA	8	1,3	0,8	8	0,5	0,2	
+table1	83	seidl2001	Brain	Whole brain	GABA	4	3,9	1,3	5	2	0,7	
+table1	83	seidl2001	Brain	Whole brain	GABA	7	1,6	0,9	8	1,4	0,6	
+table1	162	yew1999	Brain	Whole brain	GABA	7	25,98	16,48	6	29,08	13,03	
+table1	162	yew1999	Brain	Whole brain	GABA	7	14,07	19,18	6	16,98	17,34	
+table1	162	yew1999	Brain	Whole brain	GABA	7	21,2	16,48	6	21,26	7,74	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	13,69	2,8	9	11,1	3,33	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	18,57	11,1	9	11,81	2,46	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	12,7	2,75	9	11,42	2,34	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	13,52	3,49	9	10,45	2,36	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	14,04	8,31	9	8,79	3,52	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	10,97	4,94	9	10,56	3,34	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	12,52	1,24	8	11,06	4,36	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	23,7	6,61	8	17,01	5,82	
+table1	198	sasaki1986	Brain	Whole brain	GABA	9	19,25	3,07	9	25,33	5,41	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	49,35	8,36	9	48,66	18,37	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	60,84	16,75	9	53,23	17,35	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	20,54	5,38	8	18,59	6,52	
+table1	198	sasaki1986	Brain	Whole brain	GABA	7	28,6	9,18	7	29,06	9,34	
+table1	198	sasaki1986	Brain	Whole brain	GABA	7	20,6	8,92	5	19,33	17,26	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	46,68	11,22	9	43,14	10,38	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	27,52	9,03	9	38,43	19,31	
+table1	198	sasaki1986	Brain	Whole brain	GABA	6	17,06	5,31	5	16,01	10,11	
+table1	198	sasaki1986	Brain	Whole brain	GABA	9	43,51	14,17	9	47,86	13,21	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	16,42	2,22	9	12,8	5,04	
+table1	198	sasaki1986	Brain	Whole brain	GABA	10	13,26	3,58	9	8,54	2,34	
+table1	129	perry1984	Brain	Whole brain	GABA	4	17,88	7	4	17,73	2,76	
+table1	112	tarbit1980	Brain	Whole brain	GABA	7	1,15	0,52	8	0,94	0,25	
+table1	200	mohanakrishnan1997	Brain	Whole brain	GABA	4	1,42	0,56	12	0,89	0,18	
+table1	28	mohanakrishnan1995	Brain	Whole brain	GABA	4	1,48	0,14	13	0,79	0,252	
+table1	207	cross1984	Brain	Whole brain	GABA	13	54,8	34,25	12	40	19,74	
+table1	22	smith1983	Brain	Whole brain	GABA	6	60	24	7	65	21	
+table1	22	smith1983	Brain	Whole brain	GABA	6	181	57	7	169	24	
+table2	238	govindpani2020	Brain	Whole brain	GAD	6	893,37	95,3341407891213	6	822,335	169,039287149467	
+table2	238	govindpani2020	Brain	Whole brain	GAD	6	1297,145	433,535189575195	6	642,7	412,396093094976	
+table2	100	schwab2013	Brain	Whole brain	GAD	4	9,38	2,08	6	7,02	1,67	
+table2	100	schwab2013	Brain	Whole brain	GAD	4	10,21	2,67	6	6,96	1,1	
+table2	100	schwab2013	Brain	Whole brain	GAD	9	43,44	27,96	10	9,075	12,67	
+table2	100	schwab2013	Brain	Whole brain	GAD	9	43,27	27,61	10	7,83	6,76	
+table2	100	schwab2013	Brain	Whole brain	GAD	5	10,72	3,72	6	6,64	1,16	
+table2	100	schwab2013	Brain	Whole brain	GAD	5	13,29	4,83	6	7,93	1,72	
+table2	100	schwab2013	Brain	Whole brain	GAD	5	11,9	3,88	6	7,61	1,89	
+table2	100	schwab2013	Brain	Whole brain	GAD	5	14,075	6,13	6	7,76	2,22	
+table2	100	schwab2013	Brain	Whole brain	GAD	6	0,169	0,017	6	0,13	0,0105	
+table2	100	schwab2013	Brain	Whole brain	GAD	6	0,174	0,016	6	0,17	0,0235	
+table2	240	gleichmann2012	Brain	Whole brain	GAD	10	100	22,13	10	73	44,27	
+table2	208	boissière1998	Brain	Whole brain	GAD	9	0,142	0,03	5	0,143	0,038	
+table2	S13	perry1981	Brain	Whole brain	GAD	10	41,3	29,09	12	20,8	15,24	
+table2	S5	davies1979	Brain	Whole brain	GAD	14	0,36	0,26	7	0,29	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	13	0,36	0,32	7	0,18	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	14	0,49	0,336	7	0,39	0,423	
+table2	S5	davies1979	Brain	Whole brain	GAD	13	0,55	0,36	7	0,39	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	12	0,41	0,38	7	0,35	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	13	0,54	0,5	7	0,44	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	14	0,47	0,44	7	0,4	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	14	0,53	0,411	7	0,49	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	11	0,27	0,26	6	0,21	0,12	
+table2	S5	davies1979	Brain	Whole brain	GAD	10	0,49	0,5	6	0,47	0,26	
+table2	S5	davies1979	Brain	Whole brain	GAD	14	0,68	0,63	7	0,75	0,79	
+table2	S5	davies1979	Brain	Whole brain	GAD	13	0,36	0,288	7	0,17	0,158	
+table2	S5	davies1979	Brain	Whole brain	GAD	10	0,43	0,411	6	0,66	0,39	
+table2	S5	davies1979	Brain	Whole brain	GAD	4	0,035	0,006	5	0,041	0,022	
+table2	S5	davies1979	Brain	Whole brain	GAD	13	0,33	0,32	7	0,14	0,15	
+table2	S5	davies1979	Brain	Whole brain	GAD	7	0,63	0,47	4	0,49	0,12	
+table2	S5	davies1979	Brain	Whole brain	GAD	12	0,23	0	6	0,2	0,12	
+table2	S5	davies1979	Brain	Whole brain	GAD	11	0,76	0,994	6	0,76	0,514	
+table2	S5	davies1979	Brain	Whole brain	GAD	12	0,23	0,24	7	0,37	0,26	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	2202,48	351,685489820095	6	951,12	325,145268457039	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	2723,07	468,207716884291	6	1779,01	396,119233754182	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	535,845	117,551012756165	6	309,74	140,845660210033	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	1778,815	240,049994792751	6	1358,65	385,819129385778	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	616,17	201,029623190215	6	244,245	133,827872096959	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	2,21	0	6	0	0	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	1559,53	215,628582057203	6	1229,89	169,039287149467	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	3513,995	466,591053654054	6	2075,48	791,748569559807	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	1445,365	244,373344188764	6	826,345	360,356683509547	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	473,675	88,8552404194598	6	269,035	98,6164570444508	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	27,865	35,1991676037943	6	58,84	42,2659455117237	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	1169,04	192,333934603335	6	1652,89	557,12419454732	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	196,905	46,5770474590221	6	108,395	48,7325984326713	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	869,475	169,039287149467	6	567,475	158,249284832507	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	0	0	6	0	0	
+table3	238	govindpani2020	Brain	Whole brain	GABA A receptor	6	32,05	58,5060625063762	6	4,42	0	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	106017241	47722817,1068718	6	5832241	7820735,74973762	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	230017241	56845054,9385808	6	218482758,5	44753866,5238263	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	125714285,5	75912796,7560792	6	125714285,5	0	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	151367816	51121131,3984605	6	151890804,5	121004793,293489	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	99145299	172658785,46585	6	109700854,5	56554949,6208943	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	68671098	55997034,2411601	6	55712716,5	79081705,3105524	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	155803030	25200423,9584456	6	170878787,5	59574559,3260551	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	89465254	91480138,1227237	6	256618644	25198606,4370565	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	314277777,5	73348608,4313453	6	306444444	151868364,052557	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	171055555,5	28305214,6694117	6	137944444	32115531,9109917	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	113333333,3	67360967,9265374	6	46666666,67	14288690,1654187	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	247333333	88181630,7401944	6	124833333	34701104,2811801	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	200666666,5	16738179,0925218	6	225666666,5	133088941,874723	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	102750000	70218705,5515361	6	38500000	25719642,2992234	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	217833333	70626953,4337517	6	190833333	84915644,0082352	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	455666666,5	78383671,7690617	6	353166666,5	177588006,35178	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	18878571	3884190,178	6	18614285,5	2327015,256	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7050000	1907101,679	6	6657142,5	3166839,96	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8878571	2746927,608	6	3635714	2449489,743	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	22370689,5	1545711,31	6	21389655	10667949,14	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5050000	3370159,856	6	6612068,5	2947833,532	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7320689,5	5984355,739	6	10881034	9422088,444	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	3631609	1983523,309	6	15508620,5	3930445,118	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	1389655	544799,5869	6	6525862	2228472,283	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	2241954	912223,0483	6	11282183,5	6544642,225	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	9410144,5	2644738,57	6	19994927,5	7946640,747	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	20439855	7579217,286	6	15108695,5	3489634,943	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7273188	2167265,658	6	17073188	3857058,405	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	149719101	43760546,99	6	119674157	116584702,5	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	25644736,5	472063,2137	6	18260526	4573668,877	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4831140	1929254,864	6	10086315,5	1781702,501	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	14105263	2323576,172	6	16307894,5	5585695,16	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	20884782,5	4297788,971	6	23416666,5	269443,8717	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5758550,5	536348,8473	6	10589855	1073923,664	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8595362	428571,2986	6	14863768	2748930,066	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	24218965,5	3082555,468	6	22779310	2525507,207	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5543620,5	2036834,004	6	12306896,5	3205029,955	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7563103	1444269,367	6	17915517	3009070,776	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	10798985,5	5679974,795	6	16848550,5	2950924,788	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	17100000	6189398,851	6	17465217	4286607,05	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	24850000	3379585,493	6	15519565	1780334,461	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	150205882	25111386,23	6	121521008	30966489,74	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	10056905	2890929,436	6	9588554,5	2322754,368	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7501086,5	2506466,099	6	5310652	3242378,55	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7783043	3455377,605	6	5910000	4142299,036	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7016739	4081061,792	6	8490869,5	7176472,182	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4255434,5	3214155,529	6	4933260,5	5912855,133	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	3975000	2878681,987	6	4796304	4755737	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	3897203	3761834,491	6	3240169	3358290,854	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	2226694,5	2597496,486	6	1603559	2311404,658	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	2492288	2881263,749	6	1852203	4001386,015	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7354421,5	2848841,078	6	8654161,5	1736595,147	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5911878,5	3379657,753	6	6578699	2814788,272	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5745173	2778045,926	6	6465895,5	1862157,216	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	154857142,5	29228175,06	6	48719747,5	43046179,03	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6755797	2344764,258	6	17980434,5	7224218,861	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4323913	1922316,684	6	12109420	6201823,888	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4028985,5	2167265,658	6	4468840,5	3734583,918	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7352173,5	6608297,115	6	4784782,5	6959745,004	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	3021739	2502739,2	6	1669565	2060765,519	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	3302173,5	3083161,717	6	2647826	5021453,973	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5497558	6233951,395	6	5230348,5	4728084,71	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	2515000	3146454,082	6	2863488	2653423,236	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4148953	5944568,677	6	1839302	1074071,858	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7356896,5	2263665,327	6	7629310	3754476,224	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	9534482,5	5895668,289	6	7443103	7264003,474	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6246551,5	2263665,327	6	8281034	6702309,756	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	66833333	60012498,7	6	178888888,5	60760953,76	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8498255,5	10081399,23	6	5732906,5	2435248,409	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6112325,5	2520980,55	6	5043139,5	1262854,033	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5452558	2435248,409	6	5078139,5	1639362,652	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	11214035	2829589,314	6	11351754	2148781,809	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5898596	1665351,738	6	8010087,5	1321885,511	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4704561	236031,6069	6	5610877	1622829,821	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8068478	1775453,852	6	10791304	3647608,661	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4647826	1584446,316	6	6809782,5	1148543,695	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	4604347,5	1414206,779	6	6599347,5	2232177,137	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7434210,5	2719362,275	6	4684561	3313901,201	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5051140	1104225,077	6	6200175	758309,3603	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	9704561	996791,6817	6	3518245,5	4245781,404	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	50883898	36352087,31	6	36951694,5	26396365,28	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	2448395,5	3953894,083	6	2517379,5	2616499,628	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6144745,5	3147594,319	6	5569745,5	1695268,581	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5336140	3507223,505	6	5276548	1746819,317	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	1371754	251072,6986	6	8055087,5	7099866,84	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	366798	0	6	4215263	4353214,8	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	441657,5	0	6	3628245,5	5251146,3	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	846318	0	6	3324090,5	5827557,777	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5479158	0	6	2170909	3974853,142	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	385045	0	6	2467272,5	3796709,101	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7846734	2753551,028	6	5814075	2040969,967	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5800173	1525833,701	6	3508005,5	1034448,912	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6158583,5	1412172,478	6	5127254	2331736,647	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	39305555,5	68286330,04	6	53394444	50214539,73	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	10613157,5	1504029,568	6	11264035	5453766,867	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6377894,5	1339913,755	6	5652017,5	1892810,131	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8722105	1213227,371	6	7423070	3181972,908	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	13810465	1996276,577	6	11663953	6476621,119	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8524186	3484825,37	6	4851860	1508144,711	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8923604,5	1404383,101	6	7662209	4002351,114	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	12096491	1471304,385	6	11219298	5309591,125	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6450614	1955272,119	6	8588245,5	3917893,932	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	8055087,5	3101564,733	6	7423722	3991378,624	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	12384210,5	3179179,265	6	8544385,5	837574,8484	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	12102631,5	4377709,697	6	7176491	1310862,807	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	9619561	1385572,244	6	9051403,5	1558261,271	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	125184873,5	38048396,93	6	92988655	38611368,05	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	9677941	5628782,909	6	16979411,5	9275640,801	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	10615384	4705180,756	6	12623529	3421360,316	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6231764,5	5808892,665	6	9300882	5424178,256	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	9695072	13879020,76	6	20734782,5	4591727,74	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5168695,5	10315901,13	6	8445362	9079263,984	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5666086,5	10952590,87	6	11669565	7371188,246	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	7498115,5	6765028,941	6	17707971	4444758,355	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5168695,5	5705890,397	6	11102173,5	7548688,07	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	5921014	6820053,054	6	12331884	5828364,884	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	11123255,5	6366394,081	6	10690697,5	5245610,453	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6625813,5	5738641,299	6	14883720,5	3342413,261	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	6683953	6223981,972	6	12629069,5	3232186,223	
+table3	96	kwakowsky2018	Brain	Whole brain	GABA A receptor	6	30742957,5	0	6	173323943,5	52574329,16	
+table3	20	jansen1990	Brain	Whole brain	GABA A receptor	9	276	78	8	300	107,48	
+table3	20	jansen1990	Brain	Whole brain	GABA A receptor	9	223	63	8	246	76,3675323681471	
+table3	20	jansen1990	Brain	Whole brain	GABA A receptor	9	85	24	8	93	25,4558441227157	
+table3	20	jansen1990	Brain	Whole brain	GABA A receptor	9	135	30	8	81	22,62	
+table3	213	cross1986	Brain	Whole brain	GABA A receptor	13	258	46,87	13	244	72,11	
+table3	213	cross1986	Brain	Whole brain	GABA A receptor	13	458	57,68	13	387	43,26	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,12	0,073484692283495	6	0,07	0,019595917942266	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,32	0,048989794855664	6	0,25	0,024494897427832	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,12	0,024494897427832	6	0,08	0,024494897427832	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,31	0,024494897427832	6	0,25	0,024494897427832	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,13	0,048989794855664	6	0,08	0,024494897427832	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,33	0,048989794855664	6	0,24	0,048989794855664	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,12	0,048989794855664	6	0,07	0,014696938456699	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,32	0,048989794855664	6	0,22	0,024494897427832	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,13	0,048989794855664	6	0,08	0,017146428199482	
+table3	212	rissman2004	Brain	Whole brain	GABA A receptor	6	0,33	0,048989794855664	6	0,23	0,024494897427832	
+table3	79	howell2000	Brain	Whole brain	GABA A receptor	5	162	42,485291572496	5	148	53,665631459995	
+table3	79	howell2000	Brain	Whole brain	GABA A receptor	5	39	24,5967477524977	5	40	24,5967477524977	
+table3	79	howell2000	Brain	Whole brain	GABA A receptor	5	70	60,3738353924943	5	53	24,5967477524977	
+table3	79	howell2000	Brain	Whole brain	GABA A receptor	5	70	4,47213595499958	5	69	4,47213595499958	
+table3	79	howell2000	Brain	Whole brain	GABA A receptor	5	97	35,7770876399966	5	62	38,0131556174964	
+table3	185	ohyama1999	Brain	Whole brain	GABA A receptor	5	4,59	0,75	5	4,21	1,65	
+table3	185	ohyama1999	Brain	Whole brain	GABA A receptor	5	4,84	0,63	5	3,89	1,61	
+table3	185	ohyama1999	Brain	Whole brain	GABA A receptor	5	4,6	0,53	5	3,73	1,58	
+table3	185	ohyama1999	Brain	Whole brain	GABA A receptor	5	5,36	0,57	5	5,05	1,67	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	70,3	11,9	6	58	15,2	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	75,5	14,3	6	56,3	15,6	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	65,7	9,1	6	52,7	6	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	71,9	17,5	6	49,8	2,5	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	70,2	13,4	6	50,4	9	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	72,5	17	6	45,7	9,2	
+table3	193	soricelli1996	Brain	Whole brain	GABA A receptor	5	82,6	18,5	6	76,9	15,9	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,1825	0,004242640687119	8	0,23	0,048083261120685	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,484	0,148492424049175	8	0,5775	0,222031529292576	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,9265	0,425678282274302	8	1,007	0,282842712474619	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,425	0,148492424049175	8	0,511	0,124450793488832	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,96	0,445477272147525	8	1,037	0,212132034355964	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,3405	0,089095454429505	8	0,3495	0,098994949366117	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,1775	0	8	0,16885	0	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,1425	0,025455844122716	8	0,1505	0,007071067811865	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,383	0,098994949366117	8	0,3275	0,098994949366117	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,7325	0,311126983722081	8	0,6025	0,311126983722081	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,304	0,069296464556282	8	0,2335	0,066468037431536	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,249	0,055012907576313	8	0,22	0,02941564209736	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,152	0,003818376618407	8	0,152	0	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,538	0,135764501987817	8	0,344	0,026162950903902	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,95	0,227405540829594	8	0,664	0,058265598769772	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	1,22	0,273791745675431	8	0,91	0,096166522241371	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,839	0,168291413922398	8	0,581	0,063639610306789	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,807	0,175079639021789	8	0,572	0,07778174593052	
+table3	166	carlson1993	Brain	Whole brain	GABA A receptor	8	0,404	0,038183766184074	8	0,3485	0,011313708498985	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	7	1300	285,74	7	903	82,01	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	6	1099	142,07	7	911	126,99	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	7	1235	275,15	7	793	50,26	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	7	421	148,16	6	375	68,58	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	7	391	52,91	6	413	93,08	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	7	512	82,01	6	449	188,61	
+table3	53	shimohama1988	Brain	Whole brain	GABA A receptor	7	494	230,1	3	461	83,13	
+table3	210	cross1984	Brain	Whole brain	GABA A receptor	17	154	53,6	13	135	39,66	
+table3	210	cross1984	Brain	Whole brain	GABA A receptor	13	196	43,26	14	172	67,34	
+table3	210	cross1984	Brain	Whole brain	GABA A receptor	14	214	41,15	12	186	41,56	
+table3	210	cross1984	Brain	Whole brain	GABA A receptor	7	292	66,14	7	289	50,26	
+table3	S11	owen1983	Brain	Whole brain	GABA A receptor	12	204,53	26,74	10	179,98	26,62	
+table3	184	meyer1995	Brain	Whole brain	GABA A receptor	6	2,4	0,6	13	2,2	0,7	
+table3	184	meyer1995	Brain	Whole brain	GABA A receptor	6	3,5	0,9	13	3,4	0,7	
+table3	184	meyer1995	Brain	Whole brain	GABA A receptor	6	5,5	1,5	13	5,8	1	
+table3	184	meyer1995	Brain	Whole brain	GABA A receptor	6	5,7	1,7	13	5,5	1	
+table3	184	meyer1995	Brain	Whole brain	GABA A receptor	6	5,2	1,3	13	5	1	
+table3	184	meyer1995	Brain	Whole brain	GABA A receptor	6	6,4	1,9	13	6,6	1	
+table3	10	griffiths1994	Brain	Whole brain	GABA A receptor	9	80	8	5	76	4	
+table3	10	griffiths1994	Brain	Whole brain	GABA A receptor	9	89	5	5	85	6	
+table3	10	griffiths1994	Brain	Whole brain	GABA A receptor	9	83	5	5	77	4	
+table3	10	griffiths1994	Brain	Whole brain	GABA A receptor	9	86	4	5	86	5	
+table4	239	lauterborn2021	Brain	Whole brain	GABA transporters	7	2,96	0,679	8	1,92	0,531	
+table4	238	govindpani2020	Brain	Whole brain	GABA transporters	6	102,87	10,8757344579573	6	110,62	53,0559478286836	
+table4	238	govindpani2020	Brain	Whole brain	GABA transporters	6	2363,315	381,495779989766	6	2111,98	718,582310942873	
+table4	238	govindpani2020	Brain	Whole brain	GABA transporters	6	80,745	48,63461884296	6	200	106,222122695793	
+table4	238	govindpani2020	Brain	Whole brain	GABA transporters	6	44,625	48,7325984326713	6	510,62	154,966968577178	
+table4	99	nagga1999	Brain	Whole brain	GABA transporters	23	1504	449,14	18	1524,26	771,52	
+table4	99	nagga1999	Brain	Whole brain	GABA transporters	23	1621,28	524,26	18	1618,15	377,15	
+table4	99	nagga1999	Brain	Whole brain	GABA transporters	23	746,47	343,75	18	699,54	245,69	
+table4	135	simpson1988	Brain	Whole brain	GABA transporters	8	116	56,56	6	129	154,31	
+table4	135	simpson1988	Brain	Whole brain	GABA transporters	8	246	130,1	6	80	46,54	
+table4	135	simpson1988	Brain	Whole brain	GABA transporters	9	239	135	8	131	90,5096679918781	
+table4	135	simpson1988	Brain	Whole brain	GABA transporters	9	240	177	6	134	95,5300999685439	
+table4	135	simpson1988	Brain	Whole brain	GABA transporters	7	196	119,05	7	155	92,6	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	24,31	13,57	8	1,8	3,56	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	22,34	10,97	8	4,55	2,8	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	23,08	10,84	8	5,24	3,93	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	17,11	8,12	8	5,48	3,36	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	7,69	8,12	8	2,97	4,04	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	9,46	6,42917568588696	8	9,85	6,67508801440101	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	13,84	13,3875016339868	8	6,13	8,71155554421827	
+table4	11	hardy1987	Brain	Whole brain	GABA transporters	7	15,81	3,51	8	11,18	7,18	
+table4	143	poirel2018 	Brain	Whole brain	GABA transporters	63	7	1,58	119	6,41	1,45	
+table4	229	li2017	Brain	Whole brain	GABA transporters	4	0,995	0,8	4	0,37	0,178	
+table4	229	li2017	Brain	Whole brain	GABA transporters	4	0,995	0,132	4	0,58	0,194	

@@ -1,0 +1,3 @@
+"ID"	"SMD"	"CI_lower"	"CI_upper"	"pvalue"	"zvalue"	"I2"	"tau2"	"logLik"	"deviance"	"AIC"	"BIC"	"AICc"	"sum_sample_size_c"	"sum_sample_size_t"	"sum_indiv_size_c"	"sum_indiv_size_t"
+"table1"	-0.54	-0.79	-0.28	0	-4.114	88.67	0.15	-13.063	40.518	30.126	31.404	31.217	399	405	134	155
+"table3"	-0.46	-0.66	-0.26	0	-4.546	82.96	0.08	-3.684	27.323	11.367	11.973	13.082	1202	1169	92	81

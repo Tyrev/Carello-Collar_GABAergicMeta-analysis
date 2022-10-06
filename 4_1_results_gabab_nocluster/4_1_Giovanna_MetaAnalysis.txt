@@ -1,0 +1,9 @@
+TABLE ID	ID	STUDY	SAMPLE	REGION	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t	Notes
+table1	54	iwakiri2005	Brain	Dentate gyrus	GABAB receptor subunit 1	4	32,24	9,61	12	38,61	25,61	N/A
+table2	54	iwakiri2005	Brain	Hippocampus - CA1	GABAB receptor subunit 1	4	46,94	6,78	12	55,15	15,59	N/A
+table3	54	iwakiri2005	Brain	Hippocampus - CA2 and CA3	GABAB receptor subunit 1	4	119,46	11,19	12	102,97	42,82	N/A
+table4	54	iwakiri2005	Brain	Hippocampus - CA4	GABAB receptor subunit 1	4	90,04	11,99	12	103,39	29,32	N/A
+table5	54	iwakiri2005	Brain	Subiculum	GABAB receptor subunit 1	4	63,69	14,25	12	77,22	26,3	N/A
+table6	238	govindpani2020	Brain	Medial temporal gyrus	GABAB receptor subunit 1 isoform a	6	495,58	152,81	6	530,32	186,99	N/A
+table7	238	govindpani2020	Brain	Medial temporal gyrus	GABAB receptor subunit 1 isoform b	6	105,97	46,47	6	96,66	48,73	N/A
+table8	238	govindpani2020	Brain	Medial temporal gyrus	GABAB receptor subunit 2	6	2800,27	319,69	6	1088,29	586,89	N/A
