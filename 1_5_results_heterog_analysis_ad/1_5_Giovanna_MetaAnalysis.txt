@@ -1,0 +1,16 @@
+TABLE ID	ID	STUDY	SAMPLE	REGION	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t	Notes
+table27.1	185	ohyama1999	Brain	Frontal cortex	GABA A receptor	5	4,59	0,75	5	4,21	1,65	N/A
+table27.1	193	soricelli1996	Brain	Frontal cortex	GABA A receptor	5	70,3	11,9	6	58	15,2	N/A
+table27.1	193	soricelli1996	Brain	Frontal cortex	GABA A receptor	5	75,5	14,3	6	56,3	15,6	N/A
+table27.1	184	meyer1995	Brain	Frontal cortex	GABA A receptor	6	5,5	1,5	13	5,8	1	N/A
+table27.2	53	shimohama1988	Brain	Frontal cortex	GABA A receptor	7	1300	285,74	7	903	82,01	YES
+table27.2	210	cross1984	Brain	Frontal cortex	GABA A receptor	14	214	41,15	12	186	41,56	YES
+table33.1	213	cross1986	Brain	Temporal cortex	GABA A receptor	13	258	46,87	13	244	72,11	YES
+table33.1	213	cross1986	Brain	Temporal cortex	GABA A receptor	13	458	57,68	13	387	43,26	YES
+table33.1	53	shimohama1988	Brain	Temporal cortex	GABA A receptor	6	1099	142,07	7	911	126,99	YES
+table33.1	210	cross1984	Brain	Temporal cortex	GABA A receptor	13	196	43,26	14	172	67,34	YES
+table33.1	S11	owen1983	Brain	Temporal cortex	GABA A receptor	12	204,53	26,74	10	179,98	26,62	N/A
+table33.2	185	ohyama1999	Brain	Temporal cortex	GABA A receptor	5	4,84	0,63	5	3,89	1,61	N/A
+table33.2	193	soricelli1996	Brain	Temporal cortex	GABA A receptor	5	65,7	9,1	6	52,7	6	N/A
+table33.2	193	soricelli1996	Brain	Temporal cortex	GABA A receptor	5	71,9	17,5	6	49,8	2,5	N/A
+table33.2	184	meyer1995	Brain	Temporal cortex	GABA A receptor	6	5,7	1,7	13	5,5	1	N/A

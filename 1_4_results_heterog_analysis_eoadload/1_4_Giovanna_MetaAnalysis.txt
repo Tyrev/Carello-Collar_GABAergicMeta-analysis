@@ -1,0 +1,6 @@
+TABLE ID	ID	STUDY	SAMPLE	REGION	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t	Notes
+table5.1	132	oishi1996	Biofluid	CSF	GABA	10	557,3	97,3	10	498,3	89,2	N/A
+table5.1	1	tohgi1992	Biofluid	CSF	GABA	13	0,238	0,202	13	0,161	0,081	N/A
+table5.1	69	pomara1989	Biofluid	CSF	GABA	9	216,4	101,5	14	154,9	64,3	N/A
+table5.2	163	jiménez-jiménez1998	Biofluid	CSF	GABA	32	1,1	0,7	37	0,9	0,8	N/A
+table5.2	46	weiner1996	Biofluid	CSF	GABA	10	137,6	71,8	9	119	62,6	N/A
