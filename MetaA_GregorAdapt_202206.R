@@ -161,8 +161,8 @@ forestPlots <- lapply(resList, function(x) {
                 summary_label = "Summary RE Model", xlab = "SMD",
                 study_table = sum_table[1:(nrow(sum_table)-1),],
                 summary_table = sum_table[nrow(sum_table),,drop=FALSE],
-                table_headers = c("Study", "Individuals (CU/AD)",
-                                  "Samples (CU/AD)", "Weights (%)"),
+                table_headers = c("Study", "Individuals (HC/AD)",
+                                  "Samples (HC/AD)", "Weights (%)"),
                 annotate_CI = TRUE, col = "gray",
                 table_layout = matrix(c(2, 2, 1, 1, 3), nrow = 1))
 })
