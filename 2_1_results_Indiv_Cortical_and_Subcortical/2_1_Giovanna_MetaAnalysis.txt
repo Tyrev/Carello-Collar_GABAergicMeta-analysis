@@ -1,328 +1,311 @@
-TABLE ID	ID	STUDY	SAMPLE	REGION	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t	Notes
-table1	142	zhang2019	Brain	Cortical region	GABA	11	1,41	0,3	11	1,23	0,27	
-table1	107	huang2016	Brain	Cortical region	GABA	15	0,11	0,009	17	0,107	0,023	
-table1	15	liu2014	Brain	Cortical region	GABA	12	242,4	50,92	12	266,9	60,96	
-table1	18	gueli2013	Brain	Cortical region	GABA	13	0,9	0,28	13	0,6	0,16	
-table1	17	aisa2010	Brain	Cortical region	GABA	16	704,39	253,64	19	555,33	139,35	
-table1	17	aisa2010	Brain	Cortical region	GABA	16	579,94	126,88	19	457,44	138,17	
-table1	130	garcia-alloza2006	Brain	Cortical region	GABA	20	695,68	273,56	21	574,36	119,6	
-table1	130	garcia-alloza2006	Brain	Cortical region	GABA	20	570,39	128,7	21	452,05	133,3	
-table1	83	seidl2001	Brain	Cortical region	GABA	7	1,4	0,6	8	0,8	0,2	
-table1	83	seidl2001	Brain	Cortical region	GABA	8	1,3	0,8	8	0,5	0,2	
-table1	162	yew1999	Brain	Cortical region	GABA	7	25,98	16,48	6	29,08	13,03	
-table1	162	yew1999	Brain	Cortical region	GABA	7	14,07	19,18	6	16,98	17,34	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	13,69	2,8	9	11,1	3,33	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	18,57	11,1	9	11,81	2,46	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	12,7	2,75	9	11,42	2,34	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	13,52	3,49	9	10,45	2,36	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	14,04	8,31	9	8,79	3,52	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	10,97	4,94	9	10,56	3,34	
-table1	198	sasaki1986	Brain	Cortical region	GABA	10	12,52	1,24	8	11,06	4,36	
-table1	129	perry1984	Brain	Cortical region	GABA	4	17,88	7	4	17,73	2,76	
-table1	28	mohanakrishnan1995	Brain	Cortical region	GABA	4	1,48	0,14	13	0,79	0,252	
-table1	22	smith1983	Brain	Cortical region	GABA	6	60	24	7	65	21	
-table1	22	smith1983	Brain	Cortical region	GABA	6	181	57	7	169	24	
-table2	107	huang2016	Brain	Subcortical region	GABA	15	0,102	0,024	17	0,107	0,029	
-table2	15	liu2014	Brain	Subcortical region	GABA	12	367,15	64,43	12	330,4	62,7	
-table2	83	seidl2001	Brain	Subcortical region	GABA	4	3,9	1,3	5	2	0,7	
-table2	83	seidl2001	Brain	Subcortical region	GABA	7	1,6	0,9	8	1,4	0,6	
-table2	162	yew1999	Brain	Subcortical region	GABA	7	21,2	16,48	6	21,26	7,74	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	23,7	6,61	8	17,01	5,82	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	9	19,25	3,07	9	25,33	5,41	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	49,35	8,36	9	48,66	18,37	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	60,84	16,75	9	53,23	17,35	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	20,54	5,38	8	18,59	6,52	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	7	28,6	9,18	7	29,06	9,34	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	7	20,6	8,92	5	19,33	17,26	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	46,68	11,22	9	43,14	10,38	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	27,52	9,03	9	38,43	19,31	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	6	17,06	5,31	5	16,01	10,11	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	9	43,51	14,17	9	47,86	13,21	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	16,42	2,22	9	12,8	5,04	
-table2	198	sasaki1986	Brain	Subcortical region	GABA	10	13,26	3,58	9	8,54	2,34	
-table2	112	tarbit1980	Brain	Subcortical region	GABA	7	1,15	0,52	8	0,94	0,25	
-table2	200	mohanakrishnan1997	Brain	Subcortical region	GABA	4	1,42	0,56	12	0,89	0,18	
-table2	207	cross1984	Brain	Subcortical region	GABA	13	54,8	34,25	12	40	19,74	
-table3	15	liu2014	Brain	Cerebellum	GABA	12	347,5	50,92	12	299,5	50,92	
-table3	83	seidl2001	Brain	Cerebellum	GABA	5	1,8	0,5	8	1,1	0,3	
-table3	200	mohanakrishnan1997	Brain	Cerebellum	GABA	4	1,44	0,55	13	0,91	0,38	
-table4	238	govindpani2020	Brain	Cortical region	GAD	6	893,37	95,3341407891213	6	822,335	169,039287149467	
-table4	238	govindpani2020	Brain	Cortical region	GAD	6	1297,145	433,535189575195	6	642,7	412,396093094976	
-table4	100	schwab2013	Brain	Cortical region	GAD	4	9,38	2,08	6	7,02	1,67	
-table4	100	schwab2013	Brain	Cortical region	GAD	4	10,21	2,67	6	6,96	1,1	
-table4	100	schwab2013	Brain	Cortical region	GAD	9	43,44	27,96	10	9,075	12,67	
-table4	100	schwab2013	Brain	Cortical region	GAD	9	43,27	27,61	10	7,83	6,76	
-table4	240	gleichmann2012	Brain	Cortical region	GAD	10	100	22,13	10	73	44,27	
-table4	S5	davies1979	Brain	Cortical region	GAD	14	0,36	0,26	7	0,29	0,26	
-table4	S5	davies1979	Brain	Cortical region	GAD	13	0,36	0,32	7	0,18	0,26	
-table4	S5	davies1979	Brain	Cortical region	GAD	14	0,49	0,336	7	0,39	0,423	
-table4	S5	davies1979	Brain	Cortical region	GAD	13	0,55	0,36	7	0,39	0,26	
-table4	S5	davies1979	Brain	Cortical region	GAD	12	0,41	0,38	7	0,35	0,26	
-table4	S5	davies1979	Brain	Cortical region	GAD	13	0,54	0,5	7	0,44	0,26	
-table4	S5	davies1979	Brain	Cortical region	GAD	14	0,47	0,44	7	0,4	0,26	
-table4	S5	davies1979	Brain	Cortical region	GAD	14	0,53	0,411	7	0,49	0,26	
-table5	100	schwab2013	Brain	Subcortical region	GAD	5	10,72	3,72	6	6,64	1,16	
-table5	100	schwab2013	Brain	Subcortical region	GAD	5	13,29	4,83	6	7,93	1,72	
-table5	100	schwab2013	Brain	Subcortical region	GAD	5	11,9	3,88	6	7,61	1,89	
-table5	100	schwab2013	Brain	Subcortical region	GAD	5	14,075	6,13	6	7,76	2,22	
-table5	100	schwab2013	Brain	Subcortical region	GAD	6	0,169	0,017	6	0,13	0,0105	
-table5	100	schwab2013	Brain	Subcortical region	GAD	6	0,174	0,016	6	0,17	0,0235	
-table5	208	boissière1998	Brain	Subcortical region	GAD	9	0,142	0,03	5	0,143	0,038	
-table5	S5	davies1979	Brain	Subcortical region	GAD	11	0,27	0,26	6	0,21	0,12	
-table5	S5	davies1979	Brain	Subcortical region	GAD	10	0,49	0,5	6	0,47	0,26	
-table5	S5	davies1979	Brain	Subcortical region	GAD	14	0,68	0,63	7	0,75	0,79	
-table5	S5	davies1979	Brain	Subcortical region	GAD	13	0,36	0,288	7	0,17	0,158	
-table5	S5	davies1979	Brain	Subcortical region	GAD	10	0,43	0,411	6	0,66	0,39	
-table5	S5	davies1979	Brain	Subcortical region	GAD	4	0,035	0,006	5	0,041	0,022	
-table5	S5	davies1979	Brain	Subcortical region	GAD	13	0,33	0,32	7	0,14	0,15	
-table5	S5	davies1979	Brain	Subcortical region	GAD	7	0,63	0,47	4	0,49	0,12	
-table5	S5	davies1979	Brain	Subcortical region	GAD	12	0,23	0	6	0,2	0,12	
-table5	S5	davies1979	Brain	Subcortical region	GAD	11	0,76	0,994	6	0,76	0,514	
-table5	S5	davies1979	Brain	Subcortical region	GAD	12	0,23	0,24	7	0,37	0,26	
-table6	100	schwab2013	Brain	Cerebellum	GAD	4	16,58	7,47	4	12,76	3,9	
-table6	100	schwab2013	Brain	Cerebellum	GAD	4	12,07	5,48	4	8,02	2,45	
-table6	106	burbaeva2014	Brain	Cerebellum	GAD	13	160,93	85,17	13	47,48	27,11	
-table6	106	burbaeva2014	Brain	Cerebellum	GAD	13	263,03	205,29	13	62,26	38,84	
-table6	S5	davies1979	Brain	Cerebellum	GAD	12	0,33	0,346	7	0,31	0,185	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	2202,48	351,685489820095	6	951,12	325,145268457039	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	2723,07	468,207716884291	6	1779,01	396,119233754182	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	535,845	117,551012756165	6	309,74	140,845660210033	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1778,815	240,049994792751	6	1358,65	385,819129385778	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	616,17	201,029623190215	6	244,245	133,827872096959	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	2,21	0	6	0	0	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1559,53	215,628582057203	6	1229,89	169,039287149467	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	3513,995	466,591053654054	6	2075,48	791,748569559807	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1445,365	244,373344188764	6	826,345	360,356683509547	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	473,675	88,8552404194598	6	269,035	98,6164570444508	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	27,865	35,1991676037943	6	58,84	42,2659455117237	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1169,04	192,333934603335	6	1652,89	557,12419454732	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	196,905	46,5770474590221	6	108,395	48,7325984326713	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	869,475	169,039287149467	6	567,475	158,249284832507	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	0	0	6	0	0	
-table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	32,05	58,5060625063762	6	4,42	0	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	106017241	47722817,1068718	6	5832241	7820735,74973762	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	230017241	56845054,9385808	6	218482758,5	44753866,5238263	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	125714285,5	75912796,7560792	6	125714285,5	0	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	151367816	51121131,3984605	6	151890804,5	121004793,293489	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	99145299	172658785,46585	6	109700854,5	56554949,6208943	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	68671098	55997034,2411601	6	55712716,5	79081705,3105524	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	155803030	25200423,9584456	6	170878787,5	59574559,3260551	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	89465254	91480138,1227237	6	256618644	25198606,4370565	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	314277777,5	73348608,4313453	6	306444444	151868364,052557	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	171055555,5	28305214,6694117	6	137944444	32115531,9109917	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	113333333,3	67360967,9265374	6	46666666,67	14288690,1654187	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	247333333	88181630,7401944	6	124833333	34701104,2811801	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	200666666,5	16738179,0925218	6	225666666,5	133088941,874723	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	102750000	70218705,5515361	6	38500000	25719642,2992234	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	217833333	70626953,4337517	6	190833333	84915644,0082352	
-table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	455666666,5	78383671,7690617	6	353166666,5	177588006,35178	
-table7	20	jansen1990	Brain	Cortical region	GABA A receptor	9	135	30	8	81	22,62	
-table7	213	cross1986	Brain	Cortical region	GABA A receptor	13	258	46,87	13	244	72,11	
-table7	213	cross1986	Brain	Cortical region	GABA A receptor	13	458	57,68	13	387	43,26	
-table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	4,59	0,75	5	4,21	1,65	
-table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	4,84	0,63	5	3,89	1,61	
-table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	4,6	0,53	5	3,73	1,58	
-table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	5,36	0,57	5	5,05	1,67	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	70,3	11,9	6	58	15,2	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	75,5	14,3	6	56,3	15,6	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	65,7	9,1	6	52,7	6	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	71,9	17,5	6	49,8	2,5	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	70,2	13,4	6	50,4	9	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	72,5	17	6	45,7	9,2	
-table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	82,6	18,5	6	76,9	15,9	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,1825	0,004242640687119	8	0,23	0,048083261120685	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,484	0,148492424049175	8	0,5775	0,222031529292576	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,9265	0,425678282274302	8	1,007	0,282842712474619	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,425	0,148492424049175	8	0,511	0,124450793488832	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,96	0,445477272147525	8	1,037	0,212132034355964	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,3405	0,089095454429505	8	0,3495	0,098994949366117	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,1775	0	8	0,16885	0	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,1425	0,025455844122716	8	0,1505	0,007071067811865	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,383	0,098994949366117	8	0,3275	0,098994949366117	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,7325	0,311126983722081	8	0,6025	0,311126983722081	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,304	0,069296464556282	8	0,2335	0,066468037431536	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,249	0,055012907576313	8	0,22	0,02941564209736	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,152	0,003818376618407	8	0,152	0	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,538	0,135764501987817	8	0,344	0,026162950903902	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,95	0,227405540829594	8	0,664	0,058265598769772	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	1,22	0,273791745675431	8	0,91	0,096166522241371	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,839	0,168291413922398	8	0,581	0,063639610306789	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,807	0,175079639021789	8	0,572	0,07778174593052	
-table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,404	0,038183766184074	8	0,3485	0,011313708498985	
-table7	53	shimohama1988	Brain	Cortical region	GABA A receptor	7	1300	285,74	7	903	82,01	
-table7	53	shimohama1988	Brain	Cortical region	GABA A receptor	6	1099	142,07	7	911	126,99	
-table7	210	cross1984	Brain	Cortical region	GABA A receptor	13	196	43,26	14	172	67,34	
-table7	210	cross1984	Brain	Cortical region	GABA A receptor	14	214	41,15	12	186	41,56	
-table7	210	cross1984	Brain	Cortical region	GABA A receptor	7	292	66,14	7	289	50,26	
-table7	S11	owen1983	Brain	Cortical region	GABA A receptor	12	204,53	26,74	10	179,98	26,62	
-table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	5,5	1,5	13	5,8	1	
-table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	5,7	1,7	13	5,5	1	
-table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	5,2	1,3	13	5	1	
-table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	6,4	1,9	13	6,6	1	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	18878571	3884190,17798768	6	18614285,5	2327015,25564402	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7050000	1907101,67852844	6	6657142,5	3166839,96038543	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8878571	2746927,60801473	6	3635714	2449489,74278318	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	22370689,5	1545711,31034744	6	21389655	10667949,1420565	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5050000	3370159,85648515	6	6612068,5	2947833,53197293	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7320689,5	5984355,73906281	6	10881034	9422088,44433725	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3631609	1983523,30901353	6	15508620,5	3930445,11754553	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	1389655	544799,586906506	6	6525862	2228472,28329185	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2241954	912223,048323983	6	11282183,5	6544642,22486806	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9410144,5	2644738,57018042	6	19994927,5	7946640,74726154	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	20439855	7579217,28584407	6	15108695,5	3489634,94343427	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7273188	2167265,65834406	6	17073188	3857058,40485175	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	149719101	43760546,9938431	6	119674157	116584702,52483	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	25644736,5	472063,213739431	6	18260526	4573668,87655168	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4831140	1929254,86376217	6	10086315,5	1781702,5006364	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	14105263	2323576,17204515	6	16307894,5	5585695,15970049	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	20884782,5	4297788,97054637	6	23416666,5	269443,87170615	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5758550,5	536348,847293904	6	10589855	1073923,66420407	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8595362	428571,298611445	6	14863768	2748930,06587945	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	24218965,5	3082555,467826	6	22779310	2525507,20746071	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5543620,5	2036834,00377547	6	12306896,5	3205029,95496516	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7563103	1444269,36688469	6	17915517	3009070,77554251	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10798985,5	5679974,79515535	6	16848550,5	2950924,78802832	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	17100000	6189398,85119658	6	17465217	4286607,04987056	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	24850000	3379585,49301538	6	15519565	1780334,46061506	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	150205882	25111386,2310403	6	121521008	30966489,7448457	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10056905	2890929,43575833	6	9588554,5	2322754,36823645	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7501086,5	2506466,09894519	6	5310652	3242378,54981825	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7783043	3455377,60463658	6	5910000	4142299,0359091	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7016739	4081061,79233953	6	8490869,5	7176472,18233566	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4255434,5	3214155,5290019	6	4933260,5	5912855,13347097	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3975000	2878681,98704442	6	4796304	4755736,99964301	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3897203	3761834,49110105	6	3240169	3358290,85393649	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2226694,5	2597496,48625624	6	1603559	2311404,65751326	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2492288	2881263,74923331	6	1852203	4001386,01473115	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7354421,5	2848841,07825296	6	8654161,5	1736595,14702305	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5911878,5	3379657,75296279	6	6578699	2814788,27184879	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5745173	2778045,92570704	6	6465895,5	1862157,21598298	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	154857142,5	29228175,0560232	6	48719747,5	43046179,0300027	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6755797	2344764,25832023	6	17980434,5	7224218,86114686	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4323913	1922316,68406574	6	12109420	6201823,88791684	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4028985,5	2167265,65834406	6	4468840,5	3734583,91771259	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7352173,5	6608297,11481377	6	4784782,5	6959745,00412881	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3021739	2502739,20030154	6	1669565	2060765,51856246	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3302173,5	3083161,71653734	6	2647826	5021453,97270552	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5497558	6233951,39538319	6	5230348,5	4728084,70993673	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2515000	3146454,08200112	6	2863488	2653423,23606346	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4148953	5944568,67717078	6	1839302	1074071,85833351	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7356896,5	2263665,32717129	6	7629310	3754476,22391373	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9534482,5	5895668,28869073	6	7443103	7264003,47354914	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6246551,5	2263665,32717129	6	8281034	6702309,75588666	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	66833333	60012498,6981879	6	178888888,5	60760953,7612888	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8498255,5	10081399,2272291	6	5732906,5	2435248,40941864	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6112325,5	2520980,55041605	6	5043139,5	1262854,03280981	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5452558	2435248,40941864	6	5078139,5	1639362,65168327	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	11214035	2829589,31361956	6	11351754	2148781,80874502	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5898596	1665351,7378542	6	8010087,5	1321885,51086601	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4704561	236031,606869716	6	5610877	1622829,82066435	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8068478	1775453,85230256	6	10791304	3647608,66067071	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4647826	1584446,31639494	6	6809782,5	1148543,69498335	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4604347,5	1414206,77927151	6	6599347,5	2232177,13652781	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7434210,5	2719362,27519431	6	4684561	3313901,20081778	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5051140	1104225,07706717	6	6200175	758309,360336202	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9704561	996791,681693572	6	3518245,5	4245781,40432759	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	50883898	36352087,3122031	6	36951694,5	26396365,2799518	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2448395,5	3953894,08285319	6	2517379,5	2616499,62768075	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6144745,5	3147594,31947638	6	5569745,5	1695268,58082768	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5336140	3507223,50453232	6	5276548	1746819,31720942	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	1371754	251072,698635276	6	8055087,5	7099866,84011985	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	366798	0	6	4215263	4353214,79970119	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	441657,5	0	6	3628245,5	5251146,30012091	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	846318	0	6	3324090,5	5827557,7769029	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5479158	0	6	2170909	3974853,14183732	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	385045	0	6	2467272,5	3796709,10131393	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7846734	2753551,02827921	6	5814075	2040969,96720616	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5800173	1525833,70108475	6	3508005,5	1034448,91225425	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6158583,5	1412172,47804013	6	5127254	2331736,64712323	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	39305555,5	68286330,0378417	6	53394444	50214539,7270551	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10613157,5	1504029,56813937	6	11264035	5453766,86689906	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6377894,5	1339913,7553729	6	5652017,5	1892810,13062417	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8722105	1213227,37062102	6	7423070	3181972,90801635	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	13810465	1996276,57735933	6	11663953	6476621,11945585	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8524186	3484825,37032431	6	4851860	1508144,71090725	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8923604,5	1404383,10065808	6	7662209	4002351,1136898	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	12096491	1471304,38517579	6	11219298	5309591,12538371	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6450614	1955272,11906514	6	8588245,5	3917893,93210351	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8055087,5	3101564,73297487	6	7423722	3991378,624387	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	12384210,5	3179179,2649647	6	8544385,5	837574,848412666	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	12102631,5	4377709,69712902	6	7176491	1310862,80702349	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9619561	1385572,24417838	6	9051403,5	1558261,27104459	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	125184873,5	38048396,9261715	6	92988655	38611368,0527348	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9677941	5628782,90902092	6	16979411,5	9275640,80108547	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10615384	4705180,75609684	6	12623529	3421360,31583367	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6231764,5	5808892,66506289	6	9300882	5424178,25555111	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9695072	13879020,7634722	6	20734782,5	4591727,73968035	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5168695,5	10315901,1277545	6	8445362	9079263,98366167	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5666086,5	10952590,8728717	6	11669565	7371188,24571385	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7498115,5	6765028,94075062	6	17707971	4444758,35511336	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5168695,5	5705890,39663399	6	11102173,5	7548688,07043489	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5921014	6820053,05358763	6	12331884	5828364,88377315	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	11123255,5	6366394,0810306	6	10690697,5	5245610,45330222	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6625813,5	5738641,29923987	6	14883720,5	3342413,26142377	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6683953	6223981,97213006	6	12629069,5	3232186,22299853	
-table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	30742957,5	0	6	173323943,5	52574329,1554576	
-table8	20	jansen1990	Brain	Subcortical region	GABA A receptor	9	276	78	8	300	107,48	
-table8	20	jansen1990	Brain	Subcortical region	GABA A receptor	9	223	63	8	246	76,3675323681471	
-table8	20	jansen1990	Brain	Subcortical region	GABA A receptor	9	85	24	8	93	25,4558441227157	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,12	0,073484692283495	6	0,07	0,019595917942266	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,32	0,048989794855664	6	0,25	0,024494897427832	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,12	0,024494897427832	6	0,08	0,024494897427832	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,31	0,024494897427832	6	0,25	0,024494897427832	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,13	0,048989794855664	6	0,08	0,024494897427832	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,33	0,048989794855664	6	0,24	0,048989794855664	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,12	0,048989794855664	6	0,07	0,014696938456699	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,32	0,048989794855664	6	0,22	0,024494897427832	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,13	0,048989794855664	6	0,08	0,017146428199482	
-table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,33	0,048989794855664	6	0,23	0,024494897427832	
-table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	162	42,485291572496	5	148	53,665631459995	
-table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	39	24,5967477524977	5	40	24,5967477524977	
-table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	70	60,3738353924943	5	53	24,5967477524977	
-table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	70	4,47213595499958	5	69	4,47213595499958	
-table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	97	35,7770876399966	5	62	38,0131556174964	
-table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	1235	275,15	7	793	50,26	
-table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	421	148,16	6	375	68,58	
-table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	391	52,91	6	413	93,08	
-table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	512	82,01	6	449	188,61	
-table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	494	230,1	3	461	83,13	
-table8	210	cross1984	Brain	Subcortical region	GABA A receptor	17	154	53,6	13	135	39,66	
-table8	184	meyer1995	Brain	Subcortical region	GABA A receptor	6	2,4	0,6	13	2,2	0,7	
-table8	184	meyer1995	Brain	Subcortical region	GABA A receptor	6	3,5	0,9	13	3,4	0,7	
-table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	80	8	5	76	4	
-table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	89	5	5	85	6	
-table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	83	5	5	77	4	
-table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	86	4	5	86	5	
-table9	53	shimohama1988	Brain	Cerebellum	GABA A receptor	7	721	357,17	7	580	206,36	
-table9	184	meyer1995	Brain	Cerebellum	GABA A receptor	6	4	1,1	13	4,4	0,8	
-table10	239	lauterborn2021	Brain	Cortical region	GABA transporters	7	2,96	0,679	8	1,92	0,531	
-table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	102,87	10,8757344579573	6	110,62	53,0559478286836	
-table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	2363,315	381,495779989766	6	2111,98	718,582310942873	
-table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	80,745	48,63461884296	6	200	106,222122695793	
-table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	44,625	48,7325984326713	6	510,62	154,966968577178	
-table10	99	nagga1999	Brain	Cortical region	GABA transporters	23	1504	449,14	18	1524,26	771,52	
-table10	99	nagga1999	Brain	Cortical region	GABA transporters	23	1621,28	524,26	18	1618,15	377,15	
-table10	135	simpson1988	Brain	Cortical region	GABA transporters	8	116	56,56	6	129	154,31	
-table10	135	simpson1988	Brain	Cortical region	GABA transporters	8	246	130,1	6	80	46,54	
-table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	24,31	13,57	8	1,8	3,56	
-table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	22,34	10,97	8	4,55	2,8	
-table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	23,08	10,84	8	5,24	3,93	
-table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	17,11	8,12	8	5,48	3,36	
-table10	143	poirel2018 	Brain	Cortical region	GABA transporters	63	7	1,58	119	6,41	1,45	
-table10	229	li2017	Brain	Cortical region	GABA transporters	4	0,995	0,8	4	0,37	0,178	
-table11	99	nagga1999	Brain	Subcortical region	GABA transporters	23	746,47	343,75	18	699,54	245,69	
-table11	135	simpson1988	Brain	Subcortical region	GABA transporters	9	239	135	8	131	90,5096679918781	
-table11	135	simpson1988	Brain	Subcortical region	GABA transporters	9	240	177	6	134	95,5300999685439	
-table11	135	simpson1988	Brain	Subcortical region	GABA transporters	7	196	119,05	7	155	92,6	
-table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	7,69	8,12	8	2,97	4,04	
-table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	9,46	6,42917568588696	8	9,85	6,67508801440101	
-table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	13,84	13,3875016339868	8	6,13	8,71155554421827	
-table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	15,81	3,51	8	11,18	7,18	
-table11	229	li2017	Brain	Subcortical region	GABA transporters	4	0,995	0,132	4	0,58	0,194	
-table12	239	lauterborn2021	Brain	Cortical region	GAT1	7	2,96	0,679	8	1,92	0,531	
-table12	238	govindpani2020	Brain	Cortical region	GAT1	6	2363,315	381,495779989766	6	2111,98	718,582310942873	
-table12	99	nagga1999	Brain	Cortical region	GAT1	23	1504	449,14	18	1524,26	771,52	
-table12	99	nagga1999	Brain	Cortical region	GAT1	23	1621,28	524,26	18	1618,15	377,15	
-table13	238	govindpani2020	Brain	Cortical region	vGAT	6	102,87	10,8757344579573	6	110,62	53,0559478286836	
-table13	143	poirel2018 	Brain	Cortical region	vGAT	63	7	1,58	119	6,41	1,45	
-table13	229	li2017	Brain	Cortical region	vGAT	4	0,995	0,8	4	0,37	0,178	
+TABLE ID	ID	STUDY	SAMPLE	REGION	MARKER	n_c	m_c	sd_c	n_t	m_t	sd_t
+table1	142	zhang2019	Brain	Cortical region	GABA	11	1,41	0,3	11	1,23	0,27
+table1	107	huang2016	Brain	Cortical region	GABA	15	0,11	0,009	17	0,107	0,023
+table1	15	liu2014	Brain	Cortical region	GABA	12	242,4	50,92	12	266,9	60,96
+table1	18	gueli2013	Brain	Cortical region	GABA	13	0,9	0,28	13	0,6	0,16
+table1	17	aisa2010	Brain	Cortical region	GABA	16	704,39	253,64	19	555,33	139,35
+table1	17	aisa2010	Brain	Cortical region	GABA	16	579,94	126,88	19	457,44	138,17
+table1	130	garcia-alloza2006	Brain	Cortical region	GABA	20	695,68	273,56	21	574,36	119,6
+table1	130	garcia-alloza2006	Brain	Cortical region	GABA	20	570,39	128,7	21	452,05	133,3
+table1	83	seidl2001	Brain	Cortical region	GABA	7	1,4	0,6	8	0,8	0,2
+table1	83	seidl2001	Brain	Cortical region	GABA	8	1,3	0,8	8	0,5	0,2
+table1	162	yew1999	Brain	Cortical region	GABA	7	25,98	16,48	6	29,08	13,03
+table1	162	yew1999	Brain	Cortical region	GABA	7	14,07	19,18	6	16,98	17,34
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	13,69	2,8	9	11,1	3,33
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	18,57	11,1	9	11,81	2,46
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	12,7	2,75	9	11,42	2,34
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	13,52	3,49	9	10,45	2,36
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	14,04	8,31	9	8,79	3,52
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	10,97	4,94	9	10,56	3,34
+table1	198	sasaki1986	Brain	Cortical region	GABA	10	12,52	1,24	8	11,06	4,36
+table1	129	perry1984	Brain	Cortical region	GABA	4	17,88	7	4	17,73	2,76
+table1	28	mohanakrishnan1995	Brain	Cortical region	GABA	4	1,48	0,14	13	0,79	0,252
+table1	22	smith1983	Brain	Cortical region	GABA	6	60	24	7	65	21
+table1	22	smith1983	Brain	Cortical region	GABA	6	181	57	7	169	24
+table2	107	huang2016	Brain	Subcortical region	GABA	15	0,102	0,024	17	0,107	0,029
+table2	15	liu2014	Brain	Subcortical region	GABA	12	367,15	64,43	12	330,4	62,7
+table2	83	seidl2001	Brain	Subcortical region	GABA	4	3,9	1,3	5	2	0,7
+table2	83	seidl2001	Brain	Subcortical region	GABA	7	1,6	0,9	8	1,4	0,6
+table2	162	yew1999	Brain	Subcortical region	GABA	7	21,2	16,48	6	21,26	7,74
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	23,7	6,61	8	17,01	5,82
+table2	198	sasaki1986	Brain	Subcortical region	GABA	9	19,25	3,07	9	25,33	5,41
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	49,35	8,36	9	48,66	18,37
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	60,84	16,75	9	53,23	17,35
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	20,54	5,38	8	18,59	6,52
+table2	198	sasaki1986	Brain	Subcortical region	GABA	7	28,6	9,18	7	29,06	9,34
+table2	198	sasaki1986	Brain	Subcortical region	GABA	7	20,6	8,92	5	19,33	17,26
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	46,68	11,22	9	43,14	10,38
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	27,52	9,03	9	38,43	19,31
+table2	198	sasaki1986	Brain	Subcortical region	GABA	6	17,06	5,31	5	16,01	10,11
+table2	198	sasaki1986	Brain	Subcortical region	GABA	9	43,51	14,17	9	47,86	13,21
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	16,42	2,22	9	12,8	5,04
+table2	198	sasaki1986	Brain	Subcortical region	GABA	10	13,26	3,58	9	8,54	2,34
+table2	112	tarbit1980	Brain	Subcortical region	GABA	7	1,15	0,52	8	0,94	0,25
+table2	200	mohanakrishnan1997	Brain	Subcortical region	GABA	4	1,42	0,56	12	0,89	0,18
+table2	207	cross1984	Brain	Subcortical region	GABA	13	54,8	34,25	12	40	19,74
+table4	238	govindpani2020	Brain	Cortical region	GAD	6	893,37	95,3341407891213	6	822,335	169,039287149467
+table4	238	govindpani2020	Brain	Cortical region	GAD	6	1297,145	433,535189575195	6	642,7	412,396093094976
+table4	100	schwab2013	Brain	Cortical region	GAD	4	9,38	2,08	6	7,02	1,67
+table4	100	schwab2013	Brain	Cortical region	GAD	4	10,21	2,67	6	6,96	1,1
+table4	100	schwab2013	Brain	Cortical region	GAD	9	43,44	27,96	10	9,075	12,67
+table4	100	schwab2013	Brain	Cortical region	GAD	9	43,27	27,61	10	7,83	6,76
+table4	240	gleichmann2012	Brain	Cortical region	GAD	10	100	22,13	10	73	44,27
+table4	S5	davies1979	Brain	Cortical region	GAD	14	0,36	0,26	7	0,29	0,26
+table4	S5	davies1979	Brain	Cortical region	GAD	13	0,36	0,32	7	0,18	0,26
+table4	S5	davies1979	Brain	Cortical region	GAD	14	0,49	0,336	7	0,39	0,423
+table4	S5	davies1979	Brain	Cortical region	GAD	13	0,55	0,36	7	0,39	0,26
+table4	S5	davies1979	Brain	Cortical region	GAD	12	0,41	0,38	7	0,35	0,26
+table4	S5	davies1979	Brain	Cortical region	GAD	13	0,54	0,5	7	0,44	0,26
+table4	S5	davies1979	Brain	Cortical region	GAD	14	0,47	0,44	7	0,4	0,26
+table4	S5	davies1979	Brain	Cortical region	GAD	14	0,53	0,411	7	0,49	0,26
+table5	100	schwab2013	Brain	Subcortical region	GAD	5	10,72	3,72	6	6,64	1,16
+table5	100	schwab2013	Brain	Subcortical region	GAD	5	13,29	4,83	6	7,93	1,72
+table5	100	schwab2013	Brain	Subcortical region	GAD	5	11,9	3,88	6	7,61	1,89
+table5	100	schwab2013	Brain	Subcortical region	GAD	5	14,075	6,13	6	7,76	2,22
+table5	100	schwab2013	Brain	Subcortical region	GAD	6	0,169	0,017	6	0,13	0,0105
+table5	100	schwab2013	Brain	Subcortical region	GAD	6	0,174	0,016	6	0,17	0,0235
+table5	208	boissière1998	Brain	Subcortical region	GAD	9	0,142	0,03	5	0,143	0,038
+table5	S5	davies1979	Brain	Subcortical region	GAD	11	0,27	0,26	6	0,21	0,12
+table5	S5	davies1979	Brain	Subcortical region	GAD	10	0,49	0,5	6	0,47	0,26
+table5	S5	davies1979	Brain	Subcortical region	GAD	14	0,68	0,63	7	0,75	0,79
+table5	S5	davies1979	Brain	Subcortical region	GAD	13	0,36	0,288	7	0,17	0,158
+table5	S5	davies1979	Brain	Subcortical region	GAD	10	0,43	0,411	6	0,66	0,39
+table5	S5	davies1979	Brain	Subcortical region	GAD	4	0,035	0,006	5	0,041	0,022
+table5	S5	davies1979	Brain	Subcortical region	GAD	13	0,33	0,32	7	0,14	0,15
+table5	S5	davies1979	Brain	Subcortical region	GAD	7	0,63	0,47	4	0,49	0,12
+table5	S5	davies1979	Brain	Subcortical region	GAD	12	0,23	0	6	0,2	0,12
+table5	S5	davies1979	Brain	Subcortical region	GAD	11	0,76	0,994	6	0,76	0,514
+table5	S5	davies1979	Brain	Subcortical region	GAD	12	0,23	0,24	7	0,37	0,26
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	2202,48	351,685489820095	6	951,12	325,145268457039
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	2723,07	468,207716884291	6	1779,01	396,119233754182
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	535,845	117,551012756165	6	309,74	140,845660210033
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1778,815	240,049994792751	6	1358,65	385,819129385778
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	616,17	201,029623190215	6	244,245	133,827872096959
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	2,21	0	6	0	0
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1559,53	215,628582057203	6	1229,89	169,039287149467
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	3513,995	466,591053654054	6	2075,48	791,748569559807
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1445,365	244,373344188764	6	826,345	360,356683509547
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	473,675	88,8552404194598	6	269,035	98,6164570444508
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	27,865	35,1991676037943	6	58,84	42,2659455117237
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	1169,04	192,333934603335	6	1652,89	557,12419454732
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	196,905	46,5770474590221	6	108,395	48,7325984326713
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	869,475	169,039287149467	6	567,475	158,249284832507
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	0	0	6	0	0
+table7	238	govindpani2020	Brain	Cortical region	GABA A receptor	6	32,05	58,5060625063762	6	4,42	0
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	106017241	47722817,1068718	6	5832241	7820735,74973762
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	230017241	56845054,9385808	6	218482758,5	44753866,5238263
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	125714285,5	75912796,7560792	6	125714285,5	0
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	151367816	51121131,3984605	6	151890804,5	121004793,293489
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	99145299	172658785,46585	6	109700854,5	56554949,6208943
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	68671098	55997034,2411601	6	55712716,5	79081705,3105524
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	155803030	25200423,9584456	6	170878787,5	59574559,3260551
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	89465254	91480138,1227237	6	256618644	25198606,4370565
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	314277777,5	73348608,4313453	6	306444444	151868364,052557
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	171055555,5	28305214,6694117	6	137944444	32115531,9109917
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	113333333,3	67360967,9265374	6	46666666,67	14288690,1654187
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	247333333	88181630,7401944	6	124833333	34701104,2811801
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	200666666,5	16738179,0925218	6	225666666,5	133088941,874723
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	102750000	70218705,5515361	6	38500000	25719642,2992234
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	217833333	70626953,4337517	6	190833333	84915644,0082352
+table7	96	kwakowsky2018	Brain	Cortical region	GABA A receptor	6	455666666,5	78383671,7690617	6	353166666,5	177588006,35178
+table7	20	jansen1990	Brain	Cortical region	GABA A receptor	9	135	30	8	81	22,62
+table7	213	cross1986	Brain	Cortical region	GABA A receptor	13	258	46,87	13	244	72,11
+table7	213	cross1986	Brain	Cortical region	GABA A receptor	13	458	57,68	13	387	43,26
+table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	4,59	0,75	5	4,21	1,65
+table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	4,84	0,63	5	3,89	1,61
+table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	4,6	0,53	5	3,73	1,58
+table7	185	ohyama1999	Brain	Cortical region	GABA A receptor	5	5,36	0,57	5	5,05	1,67
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	70,3	11,9	6	58	15,2
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	75,5	14,3	6	56,3	15,6
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	65,7	9,1	6	52,7	6
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	71,9	17,5	6	49,8	2,5
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	70,2	13,4	6	50,4	9
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	72,5	17	6	45,7	9,2
+table7	193	soricelli1996	Brain	Cortical region	GABA A receptor	5	82,6	18,5	6	76,9	15,9
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,1825	0,004242640687119	8	0,23	0,048083261120685
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,484	0,148492424049175	8	0,5775	0,222031529292576
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,9265	0,425678282274302	8	1,007	0,282842712474619
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,425	0,148492424049175	8	0,511	0,124450793488832
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,96	0,445477272147525	8	1,037	0,212132034355964
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,3405	0,089095454429505	8	0,3495	0,098994949366117
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,1775	0	8	0,16885	0
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,1425	0,025455844122716	8	0,1505	0,007071067811865
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,383	0,098994949366117	8	0,3275	0,098994949366117
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,7325	0,311126983722081	8	0,6025	0,311126983722081
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,304	0,069296464556282	8	0,2335	0,066468037431536
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,249	0,055012907576313	8	0,22	0,02941564209736
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,152	0,003818376618407	8	0,152	0
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,538	0,135764501987817	8	0,344	0,026162950903902
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,95	0,227405540829594	8	0,664	0,058265598769772
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	1,22	0,273791745675431	8	0,91	0,096166522241371
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,839	0,168291413922398	8	0,581	0,063639610306789
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,807	0,175079639021789	8	0,572	0,07778174593052
+table7	166	carlson1993	Brain	Cortical region	GABA A receptor	8	0,404	0,038183766184074	8	0,3485	0,011313708498985
+table7	53	shimohama1988	Brain	Cortical region	GABA A receptor	7	1300	285,74	7	903	82,01
+table7	53	shimohama1988	Brain	Cortical region	GABA A receptor	6	1099	142,07	7	911	126,99
+table7	210	cross1984	Brain	Cortical region	GABA A receptor	13	196	43,26	14	172	67,34
+table7	210	cross1984	Brain	Cortical region	GABA A receptor	14	214	41,15	12	186	41,56
+table7	210	cross1984	Brain	Cortical region	GABA A receptor	7	292	66,14	7	289	50,26
+table7	S11	owen1983	Brain	Cortical region	GABA A receptor	12	204,53	26,74	10	179,98	26,62
+table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	5,5	1,5	13	5,8	1
+table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	5,7	1,7	13	5,5	1
+table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	5,2	1,3	13	5	1
+table7	184	meyer1995	Brain	Cortical region	GABA A receptor	6	6,4	1,9	13	6,6	1
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	18878571	3884190,17798768	6	18614285,5	2327015,25564402
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7050000	1907101,67852844	6	6657142,5	3166839,96038543
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8878571	2746927,60801473	6	3635714	2449489,74278318
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	22370689,5	1545711,31034744	6	21389655	10667949,1420565
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5050000	3370159,85648515	6	6612068,5	2947833,53197293
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7320689,5	5984355,73906281	6	10881034	9422088,44433725
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3631609	1983523,30901353	6	15508620,5	3930445,11754553
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	1389655	544799,586906506	6	6525862	2228472,28329185
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2241954	912223,048323983	6	11282183,5	6544642,22486806
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9410144,5	2644738,57018042	6	19994927,5	7946640,74726154
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	20439855	7579217,28584407	6	15108695,5	3489634,94343427
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7273188	2167265,65834406	6	17073188	3857058,40485175
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	149719101	43760546,9938431	6	119674157	116584702,52483
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	25644736,5	472063,213739431	6	18260526	4573668,87655168
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4831140	1929254,86376217	6	10086315,5	1781702,5006364
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	14105263	2323576,17204515	6	16307894,5	5585695,15970049
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	20884782,5	4297788,97054637	6	23416666,5	269443,87170615
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5758550,5	536348,847293904	6	10589855	1073923,66420407
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8595362	428571,298611445	6	14863768	2748930,06587945
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	24218965,5	3082555,467826	6	22779310	2525507,20746071
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5543620,5	2036834,00377547	6	12306896,5	3205029,95496516
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7563103	1444269,36688469	6	17915517	3009070,77554251
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10798985,5	5679974,79515535	6	16848550,5	2950924,78802832
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	17100000	6189398,85119658	6	17465217	4286607,04987056
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	24850000	3379585,49301538	6	15519565	1780334,46061506
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	150205882	25111386,2310403	6	121521008	30966489,7448457
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10056905	2890929,43575833	6	9588554,5	2322754,36823645
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7501086,5	2506466,09894519	6	5310652	3242378,54981825
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7783043	3455377,60463658	6	5910000	4142299,0359091
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7016739	4081061,79233953	6	8490869,5	7176472,18233566
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4255434,5	3214155,5290019	6	4933260,5	5912855,13347097
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3975000	2878681,98704442	6	4796304	4755736,99964301
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3897203	3761834,49110105	6	3240169	3358290,85393649
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2226694,5	2597496,48625624	6	1603559	2311404,65751326
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2492288	2881263,74923331	6	1852203	4001386,01473115
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7354421,5	2848841,07825296	6	8654161,5	1736595,14702305
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5911878,5	3379657,75296279	6	6578699	2814788,27184879
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5745173	2778045,92570704	6	6465895,5	1862157,21598298
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	154857142,5	29228175,0560232	6	48719747,5	43046179,0300027
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6755797	2344764,25832023	6	17980434,5	7224218,86114686
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4323913	1922316,68406574	6	12109420	6201823,88791684
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4028985,5	2167265,65834406	6	4468840,5	3734583,91771259
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7352173,5	6608297,11481377	6	4784782,5	6959745,00412881
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3021739	2502739,20030154	6	1669565	2060765,51856246
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	3302173,5	3083161,71653734	6	2647826	5021453,97270552
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5497558	6233951,39538319	6	5230348,5	4728084,70993673
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2515000	3146454,08200112	6	2863488	2653423,23606346
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4148953	5944568,67717078	6	1839302	1074071,85833351
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7356896,5	2263665,32717129	6	7629310	3754476,22391373
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9534482,5	5895668,28869073	6	7443103	7264003,47354914
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6246551,5	2263665,32717129	6	8281034	6702309,75588666
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	66833333	60012498,6981879	6	178888888,5	60760953,7612888
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8498255,5	10081399,2272291	6	5732906,5	2435248,40941864
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6112325,5	2520980,55041605	6	5043139,5	1262854,03280981
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5452558	2435248,40941864	6	5078139,5	1639362,65168327
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	11214035	2829589,31361956	6	11351754	2148781,80874502
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5898596	1665351,7378542	6	8010087,5	1321885,51086601
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4704561	236031,606869716	6	5610877	1622829,82066435
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8068478	1775453,85230256	6	10791304	3647608,66067071
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4647826	1584446,31639494	6	6809782,5	1148543,69498335
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	4604347,5	1414206,77927151	6	6599347,5	2232177,13652781
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7434210,5	2719362,27519431	6	4684561	3313901,20081778
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5051140	1104225,07706717	6	6200175	758309,360336202
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9704561	996791,681693572	6	3518245,5	4245781,40432759
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	50883898	36352087,3122031	6	36951694,5	26396365,2799518
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	2448395,5	3953894,08285319	6	2517379,5	2616499,62768075
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6144745,5	3147594,31947638	6	5569745,5	1695268,58082768
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5336140	3507223,50453232	6	5276548	1746819,31720942
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	1371754	251072,698635276	6	8055087,5	7099866,84011985
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	366798	0	6	4215263	4353214,79970119
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	441657,5	0	6	3628245,5	5251146,30012091
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	846318	0	6	3324090,5	5827557,7769029
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5479158	0	6	2170909	3974853,14183732
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	385045	0	6	2467272,5	3796709,10131393
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7846734	2753551,02827921	6	5814075	2040969,96720616
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5800173	1525833,70108475	6	3508005,5	1034448,91225425
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6158583,5	1412172,47804013	6	5127254	2331736,64712323
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	39305555,5	68286330,0378417	6	53394444	50214539,7270551
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10613157,5	1504029,56813937	6	11264035	5453766,86689906
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6377894,5	1339913,7553729	6	5652017,5	1892810,13062417
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8722105	1213227,37062102	6	7423070	3181972,90801635
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	13810465	1996276,57735933	6	11663953	6476621,11945585
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8524186	3484825,37032431	6	4851860	1508144,71090725
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8923604,5	1404383,10065808	6	7662209	4002351,1136898
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	12096491	1471304,38517579	6	11219298	5309591,12538371
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6450614	1955272,11906514	6	8588245,5	3917893,93210351
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	8055087,5	3101564,73297487	6	7423722	3991378,624387
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	12384210,5	3179179,2649647	6	8544385,5	837574,848412666
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	12102631,5	4377709,69712902	6	7176491	1310862,80702349
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9619561	1385572,24417838	6	9051403,5	1558261,27104459
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	125184873,5	38048396,9261715	6	92988655	38611368,0527348
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9677941	5628782,90902092	6	16979411,5	9275640,80108547
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	10615384	4705180,75609684	6	12623529	3421360,31583367
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6231764,5	5808892,66506289	6	9300882	5424178,25555111
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	9695072	13879020,7634722	6	20734782,5	4591727,73968035
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5168695,5	10315901,1277545	6	8445362	9079263,98366167
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5666086,5	10952590,8728717	6	11669565	7371188,24571385
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	7498115,5	6765028,94075062	6	17707971	4444758,35511336
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5168695,5	5705890,39663399	6	11102173,5	7548688,07043489
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	5921014	6820053,05358763	6	12331884	5828364,88377315
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	11123255,5	6366394,0810306	6	10690697,5	5245610,45330222
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6625813,5	5738641,29923987	6	14883720,5	3342413,26142377
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	6683953	6223981,97213006	6	12629069,5	3232186,22299853
+table8	96	kwakowsky2018	Brain	Subcortical region	GABA A receptor	6	30742957,5	0	6	173323943,5	52574329,1554576
+table8	20	jansen1990	Brain	Subcortical region	GABA A receptor	9	276	78	8	300	107,48
+table8	20	jansen1990	Brain	Subcortical region	GABA A receptor	9	223	63	8	246	76,3675323681471
+table8	20	jansen1990	Brain	Subcortical region	GABA A receptor	9	85	24	8	93	25,4558441227157
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,12	0,073484692283495	6	0,07	0,019595917942266
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,32	0,048989794855664	6	0,25	0,024494897427832
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,12	0,024494897427832	6	0,08	0,024494897427832
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,31	0,024494897427832	6	0,25	0,024494897427832
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,13	0,048989794855664	6	0,08	0,024494897427832
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,33	0,048989794855664	6	0,24	0,048989794855664
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,12	0,048989794855664	6	0,07	0,014696938456699
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,32	0,048989794855664	6	0,22	0,024494897427832
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,13	0,048989794855664	6	0,08	0,017146428199482
+table8	212	rissman2004	Brain	Subcortical region	GABA A receptor	6	0,33	0,048989794855664	6	0,23	0,024494897427832
+table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	162	42,485291572496	5	148	53,665631459995
+table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	39	24,5967477524977	5	40	24,5967477524977
+table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	70	60,3738353924943	5	53	24,5967477524977
+table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	70	4,47213595499958	5	69	4,47213595499958
+table8	79	howell2000	Brain	Subcortical region	GABA A receptor	5	97	35,7770876399966	5	62	38,0131556174964
+table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	1235	275,15	7	793	50,26
+table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	421	148,16	6	375	68,58
+table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	391	52,91	6	413	93,08
+table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	512	82,01	6	449	188,61
+table8	53	shimohama1988	Brain	Subcortical region	GABA A receptor	7	494	230,1	3	461	83,13
+table8	210	cross1984	Brain	Subcortical region	GABA A receptor	17	154	53,6	13	135	39,66
+table8	184	meyer1995	Brain	Subcortical region	GABA A receptor	6	2,4	0,6	13	2,2	0,7
+table8	184	meyer1995	Brain	Subcortical region	GABA A receptor	6	3,5	0,9	13	3,4	0,7
+table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	80	8	5	76	4
+table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	89	5	5	85	6
+table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	83	5	5	77	4
+table8	10	griffiths1994	Brain	Subcortical region	GABA A receptor	9	86	4	5	86	5
+table10	239	lauterborn2021	Brain	Cortical region	GABA transporters	7	2,96	0,679	8	1,92	0,531
+table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	102,87	10,8757344579573	6	110,62	53,0559478286836
+table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	2363,315	381,495779989766	6	2111,98	718,582310942873
+table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	80,745	48,63461884296	6	200	106,222122695793
+table10	238	govindpani2020	Brain	Cortical region	GABA transporters	6	44,625	48,7325984326713	6	510,62	154,966968577178
+table10	99	nagga1999	Brain	Cortical region	GABA transporters	23	1504	449,14	18	1524,26	771,52
+table10	99	nagga1999	Brain	Cortical region	GABA transporters	23	1621,28	524,26	18	1618,15	377,15
+table10	135	simpson1988	Brain	Cortical region	GABA transporters	8	116	56,56	6	129	154,31
+table10	135	simpson1988	Brain	Cortical region	GABA transporters	8	246	130,1	6	80	46,54
+table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	24,31	13,57	8	1,8	3,56
+table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	22,34	10,97	8	4,55	2,8
+table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	23,08	10,84	8	5,24	3,93
+table10	11	hardy1987	Brain	Cortical region	GABA transporters	7	17,11	8,12	8	5,48	3,36
+table10	143	poirel2018 	Brain	Cortical region	GABA transporters	63	7	1,58	119	6,41	1,45
+table10	229	li2017	Brain	Cortical region	GABA transporters	4	0,995	0,8	4	0,37	0,178
+table11	99	nagga1999	Brain	Subcortical region	GABA transporters	23	746,47	343,75	18	699,54	245,69
+table11	135	simpson1988	Brain	Subcortical region	GABA transporters	9	239	135	8	131	90,5096679918781
+table11	135	simpson1988	Brain	Subcortical region	GABA transporters	9	240	177	6	134	95,5300999685439
+table11	135	simpson1988	Brain	Subcortical region	GABA transporters	7	196	119,05	7	155	92,6
+table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	7,69	8,12	8	2,97	4,04
+table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	9,46	6,42917568588696	8	9,85	6,67508801440101
+table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	13,84	13,3875016339868	8	6,13	8,71155554421827
+table11	11	hardy1987	Brain	Subcortical region	GABA transporters	7	15,81	3,51	8	11,18	7,18
+table11	229	li2017	Brain	Subcortical region	GABA transporters	4	0,995	0,132	4	0,58	0,194
